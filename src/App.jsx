@@ -5,7 +5,7 @@ import MovieCard from './MovieCard';
 
 // bcfa5497
 
-const API_URL = 'http://www.omdbapi.com?apikey=bcfa5497';
+const API_URL = 'https://www.omdbapi.com?apikey=bcfa5497';
 
 const movie1 = {
   "Title": "Batman v Superman: Dawn of Justice",
